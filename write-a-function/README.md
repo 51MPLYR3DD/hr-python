@@ -1,29 +1,27 @@
-Write a Function
+# 51MPLYR3DD Hacker Rank Solutions (Python)
 
-Solution to HackerRank Python challenge.
+These are the solutions which I used to complete challenges on HackerRank.
 
-Determine if a user-defined year is a leap year.
-======================================================================
-Table of Contents
-1.  Prerequisites
-2.  Installation
-3.  Commands
-4.  Authors
-5.  License
-======================================================================
-1.  Prerequisites
-    1.1 Python 3
-======================================================================
-2.  Installation
-    2.1 None
-======================================================================
-3.  Commands
-    3.1 None
-======================================================================
-4.  Authors
-    4.1 Alan Redding
-        https://www.linkedin.com/in/alan-redding
-        https://www.twitter.com/alnrddng
-======================================================================
-5.  License
-This project is licensed under the MIT License. For details, see the LICENSE file.
+### Prerequisites
+
+Python 3
+
+To install Python 3 in Ubuntu:
+'''
+sudo apt-get install python3
+'''
+
+For other platforms:
+* Download the latest version of Python at https://www.python.org/downloads/
+
+### Installing
+
+* Software packages contained in this repository do not require installation.
+
+## Authors
+
+* **Alan Redding** - *Initial work* - [51MPLYR3DD](https://github.com/51MPLYR3DD)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
