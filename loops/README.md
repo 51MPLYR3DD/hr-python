@@ -7,9 +7,9 @@ These are the solutions which I used to complete challenges on HackerRank.
 Python 3
 
 To install Python 3 in Ubuntu:
-'''
+```
 sudo apt-get install python3
-'''
+```
 
 For other platforms:
 * Download the latest version of Python at https://www.python.org/downloads/
